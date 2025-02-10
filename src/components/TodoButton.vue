@@ -2,7 +2,7 @@
 
 <template>
   <button>
-    <slot> </slot>
+    <slot> Create </slot>
   </button>
 </template>
 
